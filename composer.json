@@ -1,0 +1,26 @@
+{
+    "name": "lsp/lsp_security",
+    "description": "Life Science Platform for Drupal 8 site project with security modules composer.",
+    "license": "GPL-2.0-or-later",
+    "type": "drupal-security",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    "require": {        
+        "drupal/autologout": "^1.0",
+        "drupal/captcha": "^1.0",
+        "drupal/encrypt": "^3.0",
+        "drupal/extlink": "^1.1",
+        "drupal/field_encrypt": "^2.0",
+        "drupal/module_blacklist": "^1.0",        
+        "drupal/readonlymode": "^1.0",      
+        "drupal/seckit": "^1.1",     
+        "drupal/session_limit": "^1.0",     
+        "drupal/shield": "^1.2",   
+        "drupal/username_enumeration_prevention": "^1.0",
+        "drupal/webform_encrypt": "^1.0",
+    } 
+}
