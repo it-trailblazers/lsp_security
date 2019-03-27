@@ -1,5 +1,0 @@
-{
-  "name": "drupal/field_encrypt",
-  "description": "Extension of the Field API to allow encryption of fields",
-  "type": "drupal-module"
-}
