@@ -1,0 +1,11 @@
+name: "Module Blacklist"
+description: "Prevents modules from being installed based on a blacklist."
+package: Administration
+type: module
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2017-06-21
+version: '8.x-1.0-alpha2'
+core: '8.x'
+project: 'module_blacklist'
+datestamp: 1498047553
